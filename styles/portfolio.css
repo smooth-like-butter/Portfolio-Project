@@ -11,11 +11,17 @@ h1 h2 h3 {
 h2 {
   font-size: 64px;
 }
+
+}
 p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   color: var(--tertiary-color);
   line-height: 30px;
+}
+
+a {
+  text-decoration: none;
 }
 
 .hero {
@@ -67,6 +73,13 @@ p {
 
 .project-description {
   padding: 120px 60px;
+}
+
+.container h2 {
+  font-family: "Playfair Display", serif;
+}
+.container p {
+  font-family:"Poppins", sans-serif;
 }
 @media (max-width: 900px) {
   h1 {
