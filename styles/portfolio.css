@@ -66,9 +66,6 @@ footer .social-links a:hover {
 footer .contact-box {
   background-color: var(--primary-color);
   padding: 30px 120px;
-  border-radius: 10px;
-}
-footer .contact-box p {
   
 }
 
